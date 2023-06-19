@@ -1,0 +1,17 @@
+{
+  "name": "electronic-invite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "public/index.html",
+  "repository": "git@github.com:JakeOTooleDev/electronic-invite.git",
+  "author": "Jake O'Toole <jake.otoole@nytimes.com>",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
